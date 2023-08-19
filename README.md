@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Uuhuuu
-- 👀 I’m interested in creating new world order
-- 🌱 I’m currently learning html, react, git, and other non-it stuff
-- 💞️ I’m looking to collaborate in real life
-- 📫 How to reach me - https://twitter.com/EchoPodlasia
+- 👀 I’m interested in be a 1% better every day
+- 🌱 I’m currently learning React 18 with Redux
+- 💞️ I’m looking to collaborate IRL or Online
+- 📫 How to reach me - https://echopodlasia.gatsbyjs.io/
 
 <!---
 Uuhuuu/Uuhuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
