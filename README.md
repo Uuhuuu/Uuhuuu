@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Uuhuuu
+- 👋 Hi, I’m human
 - 👀 I’m interested in be a 1% better every day
 - 🌱 I’m currently learning React 18 with Redux
 - 💞️ I’m looking to collaborate IRL or Online
